@@ -1,0 +1,18 @@
+MANUAL TESTING
+Manual software testing is when human testers check the quality of a new application without using automation tools or scripting. The purpose is to identify bugs or defects, ensure the product is error-free, and check it conforms to specified functional requirements.
+Manual testers design test cases or scenarios with 100 percent test coverage, and execute them one by one before verifying the results. They ensure that any reported issues are passed to the development team to fix, and then tested again.
+One of the fundamental principles of software testing is that 100 percent test automation is not possible—so manual testing is an essential part of your quality assurance process.
+
+TYPES OF MANUAL TESTING:
+ACCEPTANCE TESTING
+User Acceptance Testing (UAT) is performed by the client or end-user, to confirm that the software meets the agreed requirements. Sometimes called pre-production testing, it takes place during the final phase before releasing the product to market. UAT is an example of functional testing and types of acceptance testing include Alpha (executed within the organization) and Beta (where the application is released to a limited market to generate user feedback).
+BLACKBOX TESTING
+It is also called as Behavioral testing.This method aims to analyze an application’s functionality from the end-user’s perspective. The internal code structure is not visible during testing (hence the name “Black Box”), so testers are only aware of the inputs and expected outputs of the software.
+INTEGRATION TESTING
+Integration Testing is the process of testing an application with two or more integrating components. It is performed once the individual components have been unit-tested, and aims to identify problems with the interfaces and the interactions between them.The two main methods are the Bottom-Up Approach and Top-Down Approach
+SYSTEM TESTING
+System Testing means testing the system as a whole, once all its components have been unit-tested and integrated. It checks that the complete application works as intended, by comparing it against the original requirements.Also called end-to-end testing
+UNIT TESTING
+The individual units or components of an application’s source code are tested, to make sure each function performs as expected. It is usually carried out by developers rather than engineers, as it requires detailed knowledge of the internal program design and code.Also known as module testing or component testing, it simplifies the debugging system and helps to detect and protect against bugs in the future.
+WHITEBOX TESTING
+It is also called transparent box testing or structural testing, this is a method of testing the internal structures or workings of an application. It is performed by the developer, who checks the software’s internal codes before passing it to a test engineer.The main focus of White Box Testing is on strengthening security and improving the software’s design and usability. A combination of Black Box and White Box testing is known as Gray Box Testing.

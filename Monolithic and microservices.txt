@@ -1,0 +1,25 @@
+MONOLITHIC AND MICROSERVICE ARCHITECTURE
+A monolithic application is built as a single unified unit while a microservice architecture is a collection of smaller, independently deployable services
+NEFLIX was the pioneer in microservice architecture. Apparently, in 2009 Netflix was the first company to shift from monolithic to microservices
+ADVANTAGES OF MONOLITHIC:
+->Easy deployment
+->Development
+->Performance
+->Simplified Testing
+->Easy debugging
+DISADV OF MONOLITHIC
+->Slower deployement
+->Scalability
+->Reliability
+->Lack of flexibility
+ADV OF MICROSERVICES
+->Agility
+->Flexible Scaling
+->Continous deployment
+->High Reliability
+->Highly maintainable and testable
+DISADV OF MICROSERVICES
+->Exponential infrastructure
+->Added organizational overhead
+->Lack of standardization
+->Lack of clear ownership

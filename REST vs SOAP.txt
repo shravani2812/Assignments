@@ -1,0 +1,13 @@
+DIFFERENCE BETWEEN REST API AND SOAP
+REST stands for Representational State Tranfer is a web services API
+SOAP stands for Simple Object access Protocol
+REST is an architectural style whereas SOAP is a protocol
+SOAP uses only XML for exchanging information in its message format whereas REST is not restricted to XML and its the choice of implementor which media type to use like XML,JSON, plaintext
+On basis of security, SOAP has SSL and WS security whereas REST has SSL and HTTPS 
+SOAP is used in transcations and considered to be more secure
+As REST API deploys and uses multiple standards as stated above, so it takes fewer resources and bandwidth as compared to SOAP API.
+On other hand Soap API requires more resource and bandwidth as it needs to convert the data in XML which increases its payload and results in the large sized file.
+REST API uses Web Application Description Language for describing the functionalities being offered by web services.
+On other hand SOAP API used Web Services Description language for the same. 
+REST can make use of SOAP as the underlying protocol for web services, because in the end it is just an architectural pattern.
+On other hand SOAP cannot make use of REST since SOAP is a protocol and REST is an architectural pattern.
